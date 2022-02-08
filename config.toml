@@ -20,4 +20,4 @@ theme = "exampleTheme"
     url = "/tags/"
     weight = 3
 
-    baseURL = "https://ratzenboeck.github.io/hugo-documentation"
+    baseURL = "https://ratzenboeckjakob.github.io/hugo-documentation"
