@@ -19,3 +19,5 @@ theme = "exampleTheme"
     pre = "tag"
     url = "/tags/"
     weight = 3
+
+    baseURL = "https://ratzenboeck.github.io/hugo-documentation"
